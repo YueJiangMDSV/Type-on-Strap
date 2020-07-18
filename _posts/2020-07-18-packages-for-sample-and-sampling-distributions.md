@@ -23,4 +23,6 @@ Here is the histogram of sample distribution:
 
 ![]({{ "/assets/img/post_img/sample_hist.png" | relative_url}})
 
+Now trying a bigger image:
 
+![]({{ "/assets/img/post_img/sample_hist-1.png" | relative_url}})
