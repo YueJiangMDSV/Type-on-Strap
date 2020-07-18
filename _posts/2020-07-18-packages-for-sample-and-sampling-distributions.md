@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Packages for Sample and Sampling Distributions
+title: Packages for Statistical Inference
 tags: [Test, Lorem]
 excerpt_separator: <!--more-->
 ---
@@ -17,3 +17,10 @@ devtools::install_github("UBC-MDS/samplingsimulatorr")
 Here is the histogram of sample distribution:
 
 {images="post_img/sample_hist.png"}
+
+{% include aligner.html images="post_img/sample_hist.png" %}
+
+
+![]({{ "/assets/img/post_img/sample_hist.png" | relative_url}})
+
+
