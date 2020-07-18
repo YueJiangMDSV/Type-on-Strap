@@ -16,4 +16,4 @@ devtools::install_github("UBC-MDS/samplingsimulatorr")
 
 Here is the histogram of sample distribution:
 
-{% include aligner.html images="post_img/sample_hist.png" %}
+{images="post_img/sample_hist.png"}
