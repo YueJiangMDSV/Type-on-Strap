@@ -29,4 +29,6 @@ Now trying a bigger image:
 
 
 Now trying bigger font:
+Let's see
+   
 ![]({{ "/assets/img/post_img/sample_hist_test.png" | relative_url}})
