@@ -15,3 +15,5 @@ This package is available both in R and Python.
 The `samplingsimulatorr` package for R can be found [here](https://github.com/UBC-MDS/samplingsimulatorr).
     
 The `samplingsimulatopy` package for Python can be found [here](https://github.com/UBC-MDS/samplingsimulatorpy).
+    
+The functions in Python package `samplingsimulatorpy` are very similar to those in the R package `samplingsimulatorr`, and thus, I will only go over the installation and usage for the R package. Detailed installation and usage guide for the Python package can be found in the link above.     
